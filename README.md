@@ -3,26 +3,37 @@
  ##  What is the Internet?
   
  ```
- The internet is the wider network that allows computer networks around the world run by companies, governments, universities and other organizations to talk to one another. The result is a mass of cables, computers, data centers, routers, servers, repeaters, satellites and wifi towers that allows digital information to travel around the world.
+internet ek globle netwrk he jo alag alag computer or devices ke bich me connection bnake 
+informations ko world-wide share krne me help krta he. yhe ek huge system hota he jo communication,
+data transfer, or wide range me resources ko access krne me bhi help krta he.
+
 ```
 
-## What is Hardware?
+## What is ISP?
 ```
-The physical parts of a computer that we can touch and see are called hardware 
+The term “internet service provider" ek organization he jo individuals or bussiness ko internet service provide krata he.
+iska motive users ko internet se connect krana he.
+ IPSs diffrent type ki internet services provide krata he like : 
+       DSL, cable, fiber-optic, and wireless connections etc.
 ```	
-
-## What is Software ?
-```
-All the programs that run the computer are software. The software can be of three types: 1 system software, 2 application software, and 3 programming software.
-```
 
 
 ## What is an IP Address?
 ```
- IP Address stands for Internet Protocol Address. Every PC/Local machine is having an IP address and that IP address is provided by the Internet Service Providers (ISPs). These are some sets of rules which govern the flow of data whenever a device is connected to the Internet. It differentiates computers, websites, and routers. Just like human identification cards like Aadhaar cards, Pan cards, or any other unique identification documents. Every laptop and desktop has its own unique IP address for identification. It’s an important part of Internet technology.
+IP address means internet protocol address.
+iske help se devices ko internet pr assign kiya ja skta he.
+ is ki help se each devices ka unique numerical identifier
+ hota he jo computer se connect rehta he.	
 ```
 
-## What is Server?
+###  what is VPN ?
 ```
- A server is a software or hardware device that accepts and responds to requests made over a network. The device that makes the request, and receives a response from the server, is called a client.
+VPN ka matlab hota hai "Virtual Private Network".
+ Yeh ek aisi technology hai jiski help se hum apne device ko internet se connect kar sakte hai. 
+ VPN ki help se hum apne internet connection ki location ko bhi change kar sakte hai.  
+ jisse hum kisi bhi country me network services ko access kar sakte hai. 
+it increase our online security.
+
 ```
+
+
