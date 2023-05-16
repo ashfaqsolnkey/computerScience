@@ -19,7 +19,7 @@ All the programs that run the computer are software. The software can be of thre
 
 ## What is an IP Address?
 ```
- IP Address stands for Internet Protocol Address. Every PC/Local machine is having an IP address and that IP address is provided by the Internet Service Providers (ISPs). These are some sets of rules which govern the flow of data whenever a device is connected to the Internet. It differentiates computers, websites, and routers. Just like human identification cards like Aadhaar cards, Pan cards, or any other unique identification documents. Every laptop and desktop has its own unique IP address for identification. It’s an important part of Internet technology. An IP address is displayed as a set of four-digit like 192.154.3.29. Here each number on the set ranges from 0 to 255. Hence, the total IP address range from 0.0.0.0 to 255.255.255.255. 
+ IP Address stands for Internet Protocol Address. Every PC/Local machine is having an IP address and that IP address is provided by the Internet Service Providers (ISPs). These are some sets of rules which govern the flow of data whenever a device is connected to the Internet. It differentiates computers, websites, and routers. Just like human identification cards like Aadhaar cards, Pan cards, or any other unique identification documents. Every laptop and desktop has its own unique IP address for identification. It’s an important part of Internet technology.
 ```
 
 ## What is Server?
