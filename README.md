@@ -13,7 +13,7 @@ The physical parts of a computer that we can touch and see are called hardware
 
 ## What is Software ?
 ```
-ANS =>  All the programs that run the computer are software. The software can be of three types: 1 system software, 2 application software, and 3 programming software.
+All the programs that run the computer are software. The software can be of three types: 1 system software, 2 application software, and 3 programming software.
 ```
 
 
